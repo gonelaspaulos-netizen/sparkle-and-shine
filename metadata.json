@@ -1,0 +1,6 @@
+{
+  "name": "Sparkle & Shine Cleaning Services",
+  "description": "Breathe fresh and live clean with professional, top-rated residential and commercial cleaning services. Features an interactive pricing calculator, before-after sliders, testimonials, and online booking requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
